@@ -4,3 +4,7 @@
 /obj
 /assets
 /bin
+/.project
+/.classpath
+/.cproject
+/.settings
